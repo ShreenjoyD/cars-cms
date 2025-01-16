@@ -7,3 +7,4 @@
 <p>To use the email service, for example Gmail, you will need to perform 2-step verification in your Google account to create an app password, which will be used for sending mails.</p>
 <br><br><p>The folders src and public are for the client side, and the remaining 3 files are for the server-side.</p><br>
 <p>Place these files accordingly, and connect to the ports for the client and the server sides using the command "npm start" to see the site running.</p>
+<p>For using data from a database instead of te json file, I have also used MongoDB Atlas. In order to execute this optional part please replace the code of your server file with those of the serve.js file which I have uploaded separately.</p>
