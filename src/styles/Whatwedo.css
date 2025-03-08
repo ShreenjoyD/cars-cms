@@ -1,0 +1,38 @@
+.wwd1h {
+    font-size: 60px;
+}
+
+.wwd1 {
+    height: 350px;
+    background: url(./../images/whatwedo-banner.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+.wwd1d {
+    font-size: 20px;
+    margin-top: -55px;
+}
+
+.wwdbody {
+    height: 800px;
+    padding-top: 30px;
+    background: url(./../images/whatwedo-bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.wwdp1, .wwdp2 {
+    width: 500px;
+    margin-top: 70px;
+    margin-left: 700px;
+}
+
+.wwdp1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.wwdp2 {
+    margin-top: -10px;
+}

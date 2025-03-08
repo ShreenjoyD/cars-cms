@@ -1,0 +1,162 @@
+.parentdiv{
+    border-bottom: 0.5px solid grey;
+}
+
+.active {
+    color: red;
+}
+
+.parentdiv > div {
+    display: inline-block;
+}
+
+.media {
+    cursor: pointer;
+}
+
+.media :hover {
+    color: red;
+}
+
+.leftdiv {
+    width: 900px;
+    height: 48px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 110px;
+    border-right: 0.5px solid grey;
+} 
+
+ul {
+    margin: 30px;
+}
+
+li{
+    display: inline-block;
+    margin: 15px;
+}
+
+li * {
+    text-decoration-line: none;
+    color: white;
+}
+
+li :hover {
+    color: red;
+}
+
+.social {
+    margin-left: 450px;
+}
+
+.rightdiv {
+    padding: 10px;
+}
+
+.nl {
+    box-sizing: border-box;
+    width: 1346px;
+    height: 350px;
+    background: black url("./../images/newsletter-bg.jpg") no-repeat;
+    background-size: contain;
+    border-top: 0.5px solid grey;
+    border-bottom: 0.5px solid grey;
+    padding-left: 150px;
+    padding-top: 70px;
+    /*margin-bottom: -600px;*/
+}
+
+.nlbox {
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 255, 0.3);
+    width: 500px;
+    height: 240px;
+    padding-top: 8px;
+    padding-left: 40px;
+}
+
+.formpara {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: -15px;
+}
+
+.subbtn {
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    margin-left: 0;
+    border: 1px solid red;
+    color: white;
+    cursor: pointer;
+}
+
+#emailinp {
+    width: 260px;
+    height: 40px;
+}
+
+.subform * {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.fooparentdiv{
+    height: 100px;
+    padding-top: 80px;
+    padding-left: 100px;
+}
+
+.fooparentdiv div {
+    display: inline-block;
+}
+
+.fooleftdiv {
+    width: 300px;
+}
+
+.fooleftdiv div {
+    display: block;
+}
+
+.foosocial {
+    margin-top: 10px;
+}
+
+.foorightdiv {
+    margin-left: -55px;
+}
+
+.foorightdiv div {
+    display: block;
+}
+
+.numb {
+    margin-left: 25px;
+}
+
+.foonav {
+    width: 700px;
+    display: inline-block;
+}
+
+.foolist {
+    width: 700px;
+}
+
+.foolist li {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.copyrt {
+    width: 100%;
+    text-align: center;
+    height: 40px;
+    margin-top: 60px;
+    background-color: rgba(0, 0, 255, 0.301);
+}
+
+.active {
+    color: red;
+}

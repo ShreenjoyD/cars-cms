@@ -1,0 +1,70 @@
+.abotop {
+    height: 300px;
+    padding-top: 50px;
+    padding-left: 90px;
+    background: url(./../images/inner-banner.jpg) no-repeat;
+    background-size: cover;
+}
+
+.abouth {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.aboutd {
+    font-size: 20px;
+    position: relative;
+    top: -50px;
+}
+
+.ab1 {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.aboh {
+    font-size: 18px;
+}
+
+.abob {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -5px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid blue;
+}
+
+.abody div {
+    display: inline-block;
+}
+
+.abody img {
+    width: 500px;
+    height: 350px;
+}
+
+.ableftdiv {
+    margin-left: -100px;
+}
+
+.abrightdiv {
+    width: 500px;
+    margin-left: 50px;
+    line-height: 35px;
+}
+
+.abob2 {
+    height: 500px;
+    padding-top: 100px;
+    background: url(./../images/about-bg.jpg) no-repeat bottom right;
+    background-size: cover;
+}
+
+.abob2 p {
+    width: 500px;
+    position: absolute;
+    left: 100px;
+    font-size: 18px;
+    line-height: 30px;
+}

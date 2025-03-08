@@ -1,0 +1,59 @@
+.btp {
+    font-size: 50px;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.btd {
+    text-align: center;
+    font-size: 18px;
+    margin-top: -45px;
+}
+
+.btb {
+    width: 1200px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.loglst {
+    width: 200px;
+    padding-left: 30px;
+    border: 2px solid rgb(0, 68, 255);
+    border-radius: 2%;
+    cursor: pointer;
+}
+
+.motod {
+    text-align: center;
+    background: url(./../images/brand-bg.jpg) no-repeat;
+    background-origin: border-box;
+    height: 760px;
+}
+
+.motop1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.motohead {
+    height: 500px;
+}
+
+.motohead div {
+    float: left;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+
+.motohead li {
+    height: 35px;
+    width: 192px;
+    border: 1px solid blue;
+    margin-left: -68px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    background-color: rgba(11, 11, 172, 0.678);
+}
